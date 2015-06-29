@@ -552,6 +552,22 @@
 					border-color: white;
 				}
 
+			.wrapper.style6 {
+			padding-bottom: 6em;
+			background: grey;
+			text-align: center;
+			color: white;
+		}
+
+			.wrapper.style6 .container {
+				padding-left: 6em;
+				padding-right: 6em;
+			}
+
+			.wrapper.style6 p {
+				font-size: 1.6em;
+			}
+
 /* Header */
 
 	#header {
